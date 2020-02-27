@@ -1,5 +1,5 @@
 # lastfm_api_demo
-Playing with the lastfm top artist API
+Playing with the lastfm topartist API
 
 Code requires the following Python package installations:
 
